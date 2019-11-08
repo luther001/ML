@@ -1,1 +1,6 @@
-Simple Linear Regression with using simple dataset 
+Simple Linear Regression with Python using simple dataset 
+
+y = b0 + b1*x1
+where 
+y -> Dependent Variable
+X -> Independent Variable
