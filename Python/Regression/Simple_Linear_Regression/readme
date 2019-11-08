@@ -4,3 +4,5 @@ y = b0 + b1*x1
 where 
 y -> Dependent Variable
 X -> Independent Variable
+b0 -> Constant
+b1 -> Coefficient 
