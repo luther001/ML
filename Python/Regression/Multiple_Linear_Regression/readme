@@ -1,0 +1,7 @@
+Multiple Linear Regression (Backward Elimination Method)using Python
+
+y = b0 + b1*x1 + b2*x2 + ... + bn*xn
+y -> Dependent Variable
+x1 ... x2 -> Independent Variables
+b0 -> Constant
+b1 ... bn -> Coefficient
