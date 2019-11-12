@@ -1,8 +1,0 @@
-Polynomial Regression
-
-y = b0 + b1*x1 + b2*x1^2 + ... + bn*x1^n
-
-y -> Dependent Varibale 
-x1 -> Independent Variable 
-b0 -> Constant 
-b1...bn -> Coefficient 
